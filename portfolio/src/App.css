@@ -1,0 +1,12 @@
+img.foo {
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    border-radius: 60px;
+    box-shadow: 10px 10px 10px darkgrey;
+}
+.imgPic{
+    height: 240px;
+    width: 300px;
+    background-color: grey;
+    box-shadow: 10px 10px 10px darkgrey;
+}
