@@ -60,7 +60,7 @@ class Resume extends Component {
                </div>
             </div>
          </div>
-      </div>mode
+      </div>
 
 
       <div className="row work">
