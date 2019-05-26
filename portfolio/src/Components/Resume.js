@@ -44,10 +44,10 @@ class Resume extends Component {
                        <FormGroup row style={{marginLeft:'5px',fontSize: '15px', color: 'grey', textAlign: 'justify'}}>
 
                                <h5>Aspect Based Sentiment Analysis for Restaurant Reviews</h5>
-                               <p>• Used Stanford CoreNLP library to extract noun-adjective pairs, and verbs from yelp dataset reviews.<br/>• Created customized and sophisticated features like aspect scores calculated using AFINN lexicon for categories like ambiance, food, service, hygiene, and cost.<br/>• Developed models using scikit-learn and performed experiments with various features like aspect score vectors, punctuation vectors, verb vectors etc to improve results for star rating prediction for test data. </p>
+                               <p>• Used Stanford CoreNLP library to extract POS tag based features from yelp dataset reviews.<br/>• Created sophisticated features like aspect scores using AFINN lexicon polarity scores for categories like ambiance, food, service, hygiene, and cost.<br/>• Developed models using scikit-learn and performed experiments with various features like aspect score vectors, punctuation vectors, verb vectors etc to improve results for star rating prediction for test data. </p>
                            <h5>Drogon Escape Game AI</h5>
                            <p>• Used Markov Model to create obstacles of varying lengths.<br/>
-                               • Used Q Learning and Reccurent Neural Network to help drogon to escape the obstacles.</p>
+                               • Used Q Learning and Recurrent Neural Network to help drogon escape the obstacles.</p>
 
                            <h5>Plagiarism Check</h5>
                            <p>• Developed software to detect plagiarism in student assignment submissions through Git repository.<br/>
@@ -80,7 +80,7 @@ class Resume extends Component {
                          <p style={{color: 'blue'}}>Intel Corporation, Oregon</p>
                          <p style={{color: 'green'}}>Software Engineer Intern</p>
                          <p style={{color: 'plum'}}>May 2019-August 2019</p>
-                         Working on a unified system using Python to deliver TFM worldwide .
+                         • Working on a unified system using Python to deliver TFM worldwide.
                      </Col>
                  </FormGroup></Zoom>
              <hr/>
@@ -93,12 +93,12 @@ class Resume extends Component {
                      <p style={{color: 'blue'}}>New York Life, New York</p>
                      <p style={{color: 'green'}}>Software Engineer Co-op/Intern</p>
                      <p style={{color: 'plum'}}>June 2018-December 2018</p>
-                     Designed and developed a web application to automate changes to nylinsure.com domain websites like <a
+                     • Designed and developed a web application to automate data related changes to nylinsure.com domain websites like <a
                      href="https://ama.nylinsure.com/">https://ama.nylinsure.com/</a> using React and Redux for
                      frontend and Spring MVC and PostgreSQL for the backend.
-                     Integrated Keycloak with Spring Security for user authentication and created a dashboard for user management.
-                     Created REST APIs supporting JSON data format using Spring and PostgreSQL.
-                     Developed a simplified JSON driven Rules Engine using Java to replace Drools Business Rules Management System
+                     <br/>• Integrated Keycloak with Spring Security for user authentication and created a dashboard for user management.
+                     <br/>• Created REST APIs supporting JSON data format using Spring and PostgreSQL.
+                     <br/>• Developed a simplified JSON driven Rules Engine using Java to replace Drools Business Rules Management System
                  </Col>
              </FormGroup></Zoom>
              <hr/>
@@ -113,8 +113,8 @@ class Resume extends Component {
                              Mumbai</p>
                          <p style={{color: 'green'}}>Software Engineer</p>
                          <p style={{color: 'plum'}}>October 2016-June 2018</p>
-                         At TIAA, I worked on the file hub application using Spring Boot, Spring MVC and
-                         Hibernate, Angular JS and Oracle Coherence(Grid Computing).
+                         • Implemented cache using Oracle Coherence in-memory data grid to improve the performance of file hub web application for storing and retrieving files.
+                         <br/>• Led development of a carpooling system for TIAA, Mumbai employees using Spring Boot and MongoDB.
                      </Col>
                  </FormGroup>
                  </Zoom>
@@ -128,11 +128,8 @@ class Resume extends Component {
                          <p style={{color: 'blue'}}>Tata Consultancy Services, Pune</p>
                          <p style={{color: 'green'}}>Software Engineer</p>
                          <p style={{color: 'plum'}}>March 2013-September 2016</p>
-                         I worked on a number of web applications for Barclays, Athene Annuity and Vodafone
-                         during my
-                         stint at TCS.
-                         Majority of my work was in Java/ J2EE technologies like JSF, Spring, Hibernate, Struts
-                         etc.
+                         • Implemented SMS notification system for the Vodafone 4G data plan using JMS Publish/Subscribe Model.
+                         <br/>• Developed Customer Acquisition System using JSF and MySQL for Vodafone RED family plan used by 14 million subscribers.
                      </Col>
                  </FormGroup>
                </Zoom>
