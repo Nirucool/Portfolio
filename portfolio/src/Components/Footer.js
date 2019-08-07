@@ -19,7 +19,6 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              {/*<li>&copy; Copyright 2018 Nirupama Sharma</li>*/}
               <li>Designed by Nirupama Sharma</li>
            </ul>
 

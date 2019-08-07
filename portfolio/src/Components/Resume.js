@@ -43,8 +43,8 @@ class Resume extends Component {
 
                        <FormGroup row style={{marginLeft:'5px',fontSize: '15px', color: 'grey', textAlign: 'justify'}}>
 
-                               <h5>Aspect Based Sentiment Analysis for Restaurant Reviews</h5>
-                               <p>• Used Stanford CoreNLP library to extract POS tag based features from yelp dataset reviews.<br/>• Created sophisticated features like aspect scores using AFINN lexicon polarity scores for categories like ambiance, food, service, hygiene, and cost.<br/>• Developed models using scikit-learn and performed experiments with various features like aspect score vectors, punctuation vectors, verb vectors etc to improve results for star rating prediction for test data. </p>
+                               <h5>Restaurant Aspect Rating Prediction-Yelp Dataset</h5>
+                               <p>• Used Stanford CoreNLP and spaCy to extract features from restaurant reviews. Developed sophisticated features like aspect scores using AFINN lexicon for aspects like ambiance, hygiene, food, service, and cost.<br/>• Developed machine learning models using scikit-learn and performed sentiment analysis for star rating prediction.</p>
                            <h5>Drogon Escape Game AI</h5>
                            <p>• Used Markov Model to create obstacles of varying lengths.<br/>
                                • Used Q Learning and Recurrent Neural Network to help drogon escape the obstacles.</p>
@@ -80,7 +80,9 @@ class Resume extends Component {
                          <p style={{color: 'blue'}}>Intel Corporation, Oregon</p>
                          <p style={{color: 'green'}}>Software Engineer Intern</p>
                          <p style={{color: 'plum'}}>May 2019-August 2019</p>
-                         • Working on a unified system using Python to deliver TFM worldwide.
+                         • Developed a dashboard for centralized tool deployment and release application at Intel using Python.<br/>
+• Developed RESTful web services to retrieve data from Intel HSD ES system.<br/>
+• Designed and developed a web application to download tools from Intel NFS to the desktop using Flask framework.<br/>
                      </Col>
                  </FormGroup></Zoom>
              <hr/>
@@ -93,12 +95,9 @@ class Resume extends Component {
                      <p style={{color: 'blue'}}>New York Life, New York</p>
                      <p style={{color: 'green'}}>Software Engineer Co-op/Intern</p>
                      <p style={{color: 'plum'}}>June 2018-December 2018</p>
-                     • Designed and developed a web application to automate data related changes to nylinsure.com domain websites like <a
-                     href="https://ama.nylinsure.com/">https://ama.nylinsure.com/</a> using React and Redux for
-                     frontend and Spring MVC and PostgreSQL for the backend.
-                     <br/>• Integrated Keycloak with Spring Security for user authentication and created a dashboard for user management.
-                     <br/>• Created REST APIs supporting JSON data format using Spring and PostgreSQL.
-                     <br/>• Developed a simplified JSON driven Rules Engine using Java to replace Drools Business Rules Management System
+                    • Designed and developed a web application to automate data-related changes to nylinsure.com domain websites using React and Redux for frontend and Spring MVC, RESTful APIs, and PostgreSQL for the backend.<br/>
+• Integrated Keycloak with Spring Security for user authentication and created a dashboard for user management.<br/>
+• Developed a simplified JSON driven rules engine using Java to replace Drools Business Rules Management System.<br/>
                  </Col>
              </FormGroup></Zoom>
              <hr/>
@@ -113,7 +112,7 @@ class Resume extends Component {
                              Mumbai</p>
                          <p style={{color: 'green'}}>Software Engineer</p>
                          <p style={{color: 'plum'}}>October 2016-June 2018</p>
-                         • Implemented cache using Oracle Coherence in-memory data grid to improve the performance of file hub web application for storing and retrieving files.
+                         • Implemented distributed cache using Oracle Coherence in-memory data grid to improve the performance of insurance claims data processing web application.
                          <br/>• Led development of a carpooling system for TIAA, Mumbai employees using Spring Boot and MongoDB.
                      </Col>
                  </FormGroup>
@@ -128,8 +127,8 @@ class Resume extends Component {
                          <p style={{color: 'blue'}}>Tata Consultancy Services, Pune</p>
                          <p style={{color: 'green'}}>Software Engineer</p>
                          <p style={{color: 'plum'}}>March 2013-September 2016</p>
-                         • Implemented SMS notification system for the Vodafone 4G data plan using JMS Publish/Subscribe Model.
-                         <br/>• Developed Customer Acquisition System using JSF and MySQL for Vodafone RED family plan used by 14 million subscribers.
+                         • Implemented SMS notification system for the Vodafone 4G data plan offers using JMS API.<br/>
+• Developed Customer Acquisition System using Java and MySQL for Vodafone RED family plan used by 14 million subscribers.
                      </Col>
                  </FormGroup>
                </Zoom>
@@ -293,33 +292,6 @@ class Resume extends Component {
                                fill="#FFF"/>
                        </svg>
                            <img style={{marginLeft: '5px',height:'40px',width:'40px'}} src={sk}/>
-                       {/*<svg style={{marginLeft: '50px',height:'40px',width:'40px'}} viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>*/}
-                           {/*<path d='M20,100l74-5l6-75zM61,35l37-2l-29-24z' fill='#b11' fill-rule='evenodd'/>*/}
-                           {/*<path d='M21,100l74-5l-47-4zM98,33c4-12,5-29-14-33l-15,9l29,24z' fill='#811' fill-rule='evenodd'/>*/}
-                           {/*<path d='M7,67l14,33l11-38z' fill='#d44' fill-rule='evenodd'/>*/}
-                           {/*<path d='M29,61l42,13l-10-42zM56,0h28l-16,10zM1,51l-1,29l7-13z' fill='#c22' fill-rule='evenodd'/>*/}
-                           {/*<path d='M32,61l39,13c-14,13-30,24-50,26z' fill='#a00' fill-rule='evenodd'/>*/}
-                           {/*<path d='M61,35l10,39l17-23zM32,61l16,30c9-5,16-11,23-17l-39-13z' fill='#900' fill-rule='evenodd'/>*/}
-                           {/*<path d='M61,35l27,17l10-20l-37,3z' fill='#800' fill-rule='evenodd'/>*/}
-                           {/*<path d='M71,74l23,21l-6-44zM0,80c1,19,15,20,21,20l-14-33l-7,13zM7,67l-2,26c4,6,9,7,15,6c-4-11-13-32-13-32zM69,9l30,4c-1-7-6-11-15-13l-15,9z' fill='#911' fill-rule='evenodd'/>*/}
-                           {/*<path d='M1,51l6,16l25-5l29-27l8-26l-13-9l-22,8c-6,7-20,19-20,19c-1,1-9,16-13,24z' fill='#ebb' fill-rule='evenodd'/>*/}
-                           {/*<path d='M21,21c15-14,34-23,42-16c7,8-1,26-16,40c-14,15-33,24-41,17c-7-7,1-26,15-41z' fill='#b11' fill-rule='evenodd'/>*/}
-                       {/*</svg>*/}
-
-                       {/*<svg style={{marginLeft: '50px',height:'40px',width:'40px'}} viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>*/}
-                           {/*<path d='M1,12c0-7,4-11,11-11h87v87c0,5-5,11-11,11h-87z' fill='#723' stroke='#712' stroke-width='2'/>*/}
-
-                           {/*<path d='M13,22h80v60l-40,15l-39-16z' fill='#a33'/>*/}
-                           {/*<path d='M25,2l27,18l28,11l18,48v-77z' fill='#a54'/>*/}
-                           {/*<path d='M80,31l19,8l-9,20z' fill='#d5a67c'/>*/}
-                           {/*<path d='M78,2l2,29l19,8z' fill='#c98'/>*/}
-                           {/*<path d='M53,20l25-18l2,29z' fill='#b76'/>*/}
-                           {/*<path d='M90,58l8,20l-20,7z' fill='#b65'/>*/}
-                           {/*<path d='M98,78l-47,18l2,2h36zM25,2l28,18l-27,10l-12,27l-11-19z' fill='#a72d3a'/>*/}
-                           {/*<path d='M14,56l-11,23l26,6z' fill='#924'/>*/}
-
-                           {/*<path d='M93,23c-38-35-78,17-77,69h41c-17-52,7-81,35-67zM62,80l-7-1l2,5h7zM15,72l-7-1l-2,7l8,1zM58,62l-5-3v5l6,3zM22,47l-7-3l-2,6l7,3zM59,48l-4-4l-1,4l4,4zM62,31l-2,4l3,3l1-3zM34,26l-4-3l-4,4l5,4zM73,25h-4l1,4l3-1zM86,24h-4v2h4zM87,14l-4-3v3l4,2zM50,13l-3-4l-4,3l3,4zM68,10l-2-4h-5l2,4z' fill='#FFF'/>*/}
-                       {/*</svg>*/}
 
                        <svg style={{marginLeft: '50px',height:'40px',width:'40px'}} width="2424" height="2500" viewBox="0 0 256 264"
                             xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet">
@@ -344,31 +316,6 @@ class Resume extends Component {
                                d="M50.273.304l51.7 88.78h102.684L152.601.304H50.273zM52.234 178.933L102.864 267h101.793l-50.986-88.067H52.234z"
                                fill="#BCAE79"/>
                        </svg>
-
-
-
-                       {/*<svg style={{marginLeft: '50px',height:'40px',width:'40px'}} version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"*/}
-                            {/*width="306px" height="344.35px" viewBox="0 0 306 344.35" enable-background="new 0 0 306 344.35" >*/}
-                           {/*<path fill="#00599C" d="M302.107,258.262c2.401-4.159,3.893-8.845,3.893-13.053V99.14c0-4.208-1.49-8.893-3.892-13.052L153,172.175*/}
-	{/*L302.107,258.262z"/>*/}
-                           {/*<path fill="#004482" d="M166.25,341.193l126.5-73.034c3.644-2.104,6.956-5.737,9.357-9.897L153,172.175L3.893,258.263*/}
-	{/*c2.401,4.159,5.714,7.793,9.357,9.896l126.5,73.034C147.037,345.401,158.963,345.401,166.25,341.193z"/>*/}
-                           {/*<path fill="#659AD2" d="M302.108,86.087c-2.402-4.16-5.715-7.793-9.358-9.897L166.25,3.156c-7.287-4.208-19.213-4.208-26.5,0*/}
-	{/*L13.25,76.19C5.962,80.397,0,90.725,0,99.14v146.069c0,4.208,1.491,8.894,3.893,13.053L153,172.175L302.108,86.087z"/>*/}
-                           {/*<g>*/}
-                               {/*<path fill="#FFFFFF" d="M153,274.175c-56.243,0-102-45.757-102-102s45.757-102,102-102c36.292,0,70.139,19.53,88.331,50.968*/}
-		{/*l-44.143,25.544c-9.105-15.736-26.038-25.512-44.188-25.512c-28.122,0-51,22.878-51,51c0,28.121,22.878,51,51,51*/}
-		{/*c18.152,0,35.085-9.776,44.191-25.515l44.143,25.543C223.142,254.644,189.294,274.175,153,274.175z"/>*/}
-                           {/*</g>*/}
-                           {/*<g>*/}
-                               {/*<polygon fill="#FFFFFF" points="255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 221,166.508*/}
-		{/*221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 	"/>*/}
-                           {/*</g>*/}
-                           {/*<g>*/}
-                               {/*<polygon fill="#FFFFFF" points="297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508*/}
-		{/*263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 	"/>*/}
-                           {/*</g>*/}
-                       {/*</svg>*/}
                        <svg style={{marginLeft: '50px',height:'40px',width:'40px'}} width="2270" height="2500" viewBox="0 0 256 282"
                             xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet">
                            <g fill="#8CC84B">

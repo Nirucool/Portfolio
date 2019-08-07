@@ -2,17 +2,17 @@
   "main": {
     "name":"Nirupama Sharma",
     "occupation":"Software Developer",
-    "description":"I'm working as a Software Engineer Intern at Intel Corporation, Oregon for Summer 2019. I'm an NLP and AI enthusiast. I work using Python, Java, MongoDB, Scikit-learn, REST API, PostgreSQL, React-Redux etc",
+    "description":"I'm working as a Software Engineer Intern at Intel Corporation, Oregon for Summer 2019. I'm an NLP and AI enthusiast. I work using Python, Java, MongoDB, Scikit-learn, RESTful APIs, PostgreSQL, React-Redux etc",
     "image":"profilepic.jpg",
-    "bio":"I am a Full Stack Software Developer with 5 years of work experience with Fortune 500 companies like Intel Corporation, TIAA, New York Life Insurance etc. I am an NLP and AI enthusiast. I specialize in the development of scalable web and enterprise applications using Java, Python, Scikit-Learn, React-Redux, Vue.js, MongoDB, PostgreSQL, REST API etc. I am a Master of Science in Computer Science student at Northeastern University, Boston, currently working as Software Engineer Intern at Intel Corporation.",
+    "bio":"I am a Software Engineer with 5 years of work experience with companies like Intel Corporation, TIAA, New York Life Insurance etc. I am an NLP and AI enthusiast. I specialize in the development of scalable web and enterprise applications using Java, Python, Scikit-Learn, React-Redux, Vue.js, MongoDB, PostgreSQL, REST API etc. I am a Master of Science in Computer Science student at Northeastern University, Boston, currently working as Software Engineer Intern at Intel Corporation.",
     "contactmessage":"Contact me here....",
     "email": "sharma.nir@husky.neu.edu",
     "phone": "857-269-6535",
     "address":{
-      "street":"Apt 6, 30 Saint Germain Street",
-      "city":"Boston",
-      "state":"Massachusetts",
-      "zip": "02115"
+      "street":"15767 NW Central Dr",
+      "city":"Portland",
+      "state":"Oregon",
+      "zip": "97229"
     },
     "website": "http://www.nirupamasharma.com",
     "resumedownload":"http://nirupamasharma.com",
