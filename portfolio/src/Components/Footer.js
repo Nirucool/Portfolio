@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Pdf from './PrivacyPolicy.pdf';
 
 class Footer extends Component {
   render() {
@@ -17,10 +18,13 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
-
+            <u1>
+                <a href={Pdf}>Privacy Policy</a>
+            </u1>
            <ul className="copyright">
               <li>Designed by Nirupama Sharma</li>
            </ul>
+
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>

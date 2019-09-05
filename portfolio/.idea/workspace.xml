@@ -2,157 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10853c1e-163c-43d4-ab6e-3f8ebb1dbf7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-resume-template-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/spinning.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_spinning.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/css/animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-codes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-embedded.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-ie7-codes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/media-queries.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/header-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ml.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/overlay-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/Design&amp;Share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/DrogonEscape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/PlagiarismCheck.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/Portfolio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio/RoboticsMotionPlanning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/profilepic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials-bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.fittext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.flexslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/waypoints.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/NirupamaSharmaResume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Resume.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Testimonials.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/intel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/nyl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/tcs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/tiaa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,59 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Resume.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="53" column="131" selection-start-line="53" selection-start-column="131" selection-end-line="53" selection-end-column="131" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Testimonials.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/resumeData.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2261">
@@ -224,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -232,8 +30,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/About.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -242,10 +58,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Footer.js">
+        <entry file="file://$PROJECT_DIR$/src/Components/Portfolio.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -282,21 +138,21 @@
         <option value="$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html" />
         <option value="$PROJECT_DIR$/node_modules/normalize-package-data/lib/fixer.js" />
         <option value="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.prod.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Components/Header.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/Components/Contact.js" />
         <option value="$PROJECT_DIR$/src/Components/About.js" />
-        <option value="$PROJECT_DIR$/src/Components/Footer.js" />
         <option value="$PROJECT_DIR$/public/css/layout.css" />
         <option value="$PROJECT_DIR$/src/Components/Resume.js" />
         <option value="$PROJECT_DIR$/public/resumeData.json" />
+        <option value="$PROJECT_DIR$/src/Components/Footer.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="30" />
     <option name="y" value="60" />
     <option name="width" value="3780" />
@@ -307,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -330,14 +187,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558858754708" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/react-resume-template-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -375,16 +231,18 @@
       <workItem from="1557791077096" duration="336000" />
       <workItem from="1557909339803" duration="698000" />
       <workItem from="1558763148029" duration="819000" />
+      <workItem from="1567720285966" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38194000" />
+    <option name="totallyTimeSpent" value="38971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25970873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26375404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -445,16 +303,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html" />
     <entry file="file://$PROJECT_DIR$/node_modules/html-webpack-plugin/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -479,41 +327,12 @@
     <entry file="file://$PROJECT_DIR$/.idea/react-resume-template-master.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="913">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -526,13 +345,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/download.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/src/Components/Resume.js">
@@ -571,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
@@ -583,25 +395,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Footer.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/About.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/Components/Portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
