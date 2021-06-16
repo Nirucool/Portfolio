@@ -72,19 +72,41 @@ class Resume extends Component {
          <div className="nine columns main-col">
           {/*{work}*/}
              <Zoom left>
+                  <FormGroup row style={{fontSize: '15px', color: 'grey', textAlign: 'justify'}}>
+                     <Col sm={4}>
+                         <img className="foo" style={{height: '150px', width: '200px'}} src={intel}/>
+                     </Col>
+                     <Col sm={8}>
+                         <p style={{color: 'blue'}}>Intel Corporation, Bellevue, Washington</p>
+                         <p style={{color: 'green'}}>Software Engineer</p>
+                         <p style={{color: 'plum'}}>Feb 2020-Present</p>
+                         • Developing certification and training content delivery platform for Intel Cloud using Django, REST APIs, and MongoDB.<br/>
+                         • Familiar with usage of Kaniko, Docker and Kubernetes.<br/>
+• Developed a disk space monitoring tool using Python, Pytorch and implemented trash collector to reclaim gigabytes of disk space
+daily.<br/>
+• Improved disk selection algorithm for release of tool versions across Intel enabling effective disk space utilization.
+• Designed and developed an application to download tools from NFS using Flask.<br/>
+• Led Perforce depot support integration in tool release, versioning, and deployment application.<br/>
+• Working on migration of Converged Release Tool from Teamforge to Github. It includes migration of permissions, notifications,
+repositories, and code reviews.<br/>
+
+                     </Col>
+                 </FormGroup></Zoom>
+                 <Zoom left>
                  <FormGroup row style={{fontSize: '15px', color: 'grey', textAlign: 'justify'}}>
                      <Col sm={4}>
                          <img className="foo" style={{height: '150px', width: '200px'}} src={intel}/>
                      </Col>
                      <Col sm={8}>
-                         <p style={{color: 'blue'}}>Intel Corporation, Oregon</p>
+                         <p style={{color: 'blue'}}>Intel Corporation, Hillsboro, Oregon</p>
                          <p style={{color: 'green'}}>Software Engineer Intern</p>
                          <p style={{color: 'plum'}}>May 2019-August 2019</p>
                          • Developed a dashboard for centralized tool deployment and release application at Intel using Python.<br/>
 • Developed RESTful web services to retrieve data from Intel HSD ES system.<br/>
 • Designed and developed a web application to download tools from Intel NFS to the desktop using Flask framework.<br/>
                      </Col>
-                 </FormGroup></Zoom>
+                 </FormGroup>
+                 </Zoom>
              <hr/>
              <Zoom left>
              <FormGroup row style={{fontSize: '15px', color: 'grey', textAlign: 'justify'}}>

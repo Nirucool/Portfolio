@@ -4,15 +4,15 @@
     "occupation":"Software Developer",
     "description":"I'm working as a Software Engineer Intern at Intel Corporation, Oregon for Summer 2019. I'm an NLP and AI enthusiast. I work using Python, Java, MongoDB, Scikit-learn, RESTful APIs, PostgreSQL, React-Redux etc",
     "image":"profilepic.jpg",
-    "bio":"I am a Software Engineer with 5 years of work experience with companies like Intel Corporation, TIAA, New York Life Insurance etc. I am an NLP and AI enthusiast. I specialize in the development of scalable web and enterprise applications using Java, Python, Scikit-Learn, React-Redux, Vue.js, MongoDB, PostgreSQL, REST API etc. I am a Master of Science in Computer Science student at Northeastern University, Boston, currently working as Software Engineer Intern at Intel Corporation.",
+    "bio":"I am a Software Engineer with 5 years and 8 months of work experience with companies like Intel Corporation, TIAA, New York Life Insurance etc. I work on large scale distributed systems. I am a Master of Science in Computer Science graduate from Northeastern University, Boston. I work as Software Engineer at Intel Corporation.",
     "contactmessage":"Contact me here....",
-    "email": "sharma.nir@husky.neu.edu",
+    "email": "nirupamasharma7@gmail.com",
     "phone": "857-269-6535",
     "address":{
-      "street":"15767 NW Central Dr",
-      "city":"Portland",
-      "state":"Oregon",
-      "zip": "97229"
+      "street":"9100 228th Way NE",
+      "city":"Redmond",
+      "state":"WA",
+      "zip": "98053"
     },
     "website": "http://www.nirupamasharma.com",
     "resumedownload":"http://nirupamasharma.com",
