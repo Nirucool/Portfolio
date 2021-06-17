@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Nirupama Sharma",
-    "occupation":"Software Developer",
-    "description":"I'm working as a Software Engineer Intern at Intel Corporation, Oregon for Summer 2019. I'm an NLP and AI enthusiast. I work using Python, Java, MongoDB, Scikit-learn, RESTful APIs, PostgreSQL, React-Redux etc",
+    "occupation":"Software Engineer",
+    "description":"I am working as a Software Engineer at Intel Corporation.",
     "image":"profilepic.jpg",
     "bio":"I am a Software Engineer with 5 years and 8 months of work experience with companies like Intel Corporation, TIAA, New York Life Insurance etc. I work on large scale distributed systems. I am a Master of Science in Computer Science graduate from Northeastern University, Boston. I work as Software Engineer at Intel Corporation.",
     "contactmessage":"Contact me here....",
